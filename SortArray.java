@@ -6,7 +6,6 @@ public class SortArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        // Adding a new inline comment for the demonstration
         // Prompt user to enter the number of integers
         System.out.print("Enter the number of integers: ");
         int numIntegers = scanner.nextInt();
@@ -17,7 +16,7 @@ public class SortArray {
         for (int i = 0; i < numIntegers; i++) {
             intArr[i] = scanner.nextInt();
         }
-        // Adding an inline comment for the demonstration
+        
         // Sort the array of integers
         sortIntegers(intArr);
 
