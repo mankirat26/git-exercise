@@ -21,3 +21,14 @@ public class SortArrayTest {
         assertArrayEquals(new int[]{1, 2, 3, 5, 7}, arr);
     }
 }
+
+
+
+
+
+
+        String[] arr = {"banana", "apple", "orange"};
+        SortArray.sortStrings(arr);
+        assertArrayEquals(new String[]{"apple", "banana", "orange"}, arr);
+    
+
