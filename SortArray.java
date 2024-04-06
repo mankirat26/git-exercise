@@ -5,7 +5,7 @@ public class SortArray {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        
         // Prompt user to enter the number of integers
         System.out.print("Enter the number of integers: ");
         int numIntegers = scanner.nextInt();
