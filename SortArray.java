@@ -16,7 +16,7 @@ public class SortArray {
         for (int i = 0; i < numIntegers; i++) {
             intArr[i] = scanner.nextInt();
         }
-
+        // Adding an inline comment for the demonstration
         // Sort the array of integers
         sortIntegers(intArr);
 
