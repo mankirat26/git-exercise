@@ -4,3 +4,5 @@ cherry
 blueberry
 strawberry
 mango
+orange
+chocolate
