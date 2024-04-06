@@ -2,3 +2,5 @@ apple
 banana
 cherry
 mango
+orange
+chocolate
